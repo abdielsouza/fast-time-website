@@ -10,7 +10,7 @@
 </script>
 
 <ParaglideJS {i18n}>
-	<nav class="container mx-auto py-4 px-10 flex justify-between items-center bg-zinc-900 text-zinc-300 font-sans">
+	<nav class="w-full mx-auto py-4 px-10 flex justify-between items-center bg-zinc-900 text-zinc-300 font-sans">
 		<div class="flex items-center space-x-4 text-2xl font-bold text-pink-500">
 			<DetectiveIcon/>
 			<a href="/">Fast Time</a>

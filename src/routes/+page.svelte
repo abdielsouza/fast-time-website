@@ -20,13 +20,15 @@
             <div class="m-auto text-center border border-white p-4 backdrop-brightness-75 scale-75 lg:scale-100">
                 <h1 in:fade="{{ duration: 1000 }}" class="text-5xl font-bold mb-4 text-pink-400">Descubra a Verdade</h1>
                 <p in:fade="{{ duration: 1000, delay: 500 }}" class="text-xl mb-8 font-semibold">Serviços profissionais de investigação para casos pessoais e empresariais</p>
-                <a href="#contato" in:fade="{{ duration: 1000, delay: 1000 }}" class="bg-pink-600 text-white px-6 py-3 rounded-full hover:bg-pink-500 transition duration-300 inline-block font-semibold">Fale Conosco</a>
+                <a href="#contato" in:fade="{{ duration: 1000, delay: 1000 }}" class="bg-pink-600 text-white px-6 py-3 rounded-full hover:bg-pink-500 transition duration-300 inline-block font-semibold">
+                    Fale Conosco
+                </a>
             </div>
         </div>
     </section>
 
     <section id="servicos" class="bg-zinc-800 py-16">
-        <div class="container mx-auto px-4">
+        <div class="flex flex-col container mx-auto px-4">
             <h2 class="text-3xl font-bold mb-12 text-center text-pink-400">Nossos Serviços</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 {#if visible}
@@ -44,6 +46,9 @@
                 </div>
                 {/if}
             </div>
+            <a href="/serviços" in:fade="{{ duration: 1000, delay: 1000 }}" class="bg-pink-600 text-white px-6 py-3 rounded-full hover:bg-pink-500 transition duration-300 inline-block font-semibold mt-10 mx-auto">
+                Ver Mais
+            </a>
         </div>
     </section>
 
