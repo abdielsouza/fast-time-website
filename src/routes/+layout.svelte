@@ -5,14 +5,14 @@
 	import Icon from "@iconify/svelte";
 	import '../app.css';
     import SheetContent from "$lib/components/ui/sheet/sheet-content.svelte";
-    import DetectiveIcon from "./DetectiveIcon.svelte";
+
 	let { children } = $props();
 </script>
 
 <ParaglideJS {i18n}>
-	<nav class="w-full mx-auto py-4 px-10 flex justify-between items-center bg-zinc-900 text-zinc-300 font-sans">
+	<nav class="w-full mx-auto py-4 px-10 flex justify-between items-center bg-zinc-900 text-zinc-300">
 		<div class="flex items-center space-x-4 text-2xl font-bold text-pink-500">
-			<DetectiveIcon/>
+			<img src="/logo.png" alt="" class="object-contain w-[48px] h-[48px]" />
 			<a href="/">Fast Time</a>
 		</div>
 		<ul class="hidden lg:flex space-x-4">

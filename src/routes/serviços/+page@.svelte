@@ -2,11 +2,11 @@
     import { Accordion, AccordionTrigger, AccordionItem, AccordionContent } from "$lib/components/ui/accordion";
 </script>
 
-<main class="bg-zinc-800 min-h-screen text-zinc-300 font-sans">
+<main class="bg-zinc-800 min-h-screen text-zinc-300">
     <Accordion class="w-full">
         <AccordionItem value="service-1">
             <AccordionTrigger class="px-10 text-xl font-semibold">1. Investigação Conjugal</AccordionTrigger>
-            <AccordionContent class="px-10 text-justify space-y-6">
+            <AccordionContent class="px-10 text-justify  space-y-6">
                 <img src="/investigação-conjugal.jpg" alt="" class="object-cover float-right w-[400px] h-[200px] ml-10 mb-10" />
                 <p class="my-4 indent-6">
                 Em meio a dúvidas sobre relacionamentos, a busca por clareza se torna essencial. Ao enfrentar incertezas, 

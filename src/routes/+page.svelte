@@ -14,10 +14,10 @@
     <a href="#contato"><Icon icon="logos:whatsapp-icon" class="text-[24px]" /></a>
 </aside>
 
-<main class="bg-zinc-900 min-h-screen text-zinc-300 font-sans">
+<main class="bg-zinc-900 min-h-screen text-zinc-300">
     <section id="investigacao-conjugal" class="flex justify-center space-y-10 text-center">
         <div class="flex bg-[url('/mobile-header-bg.jpeg')] md:bg-[url('/desktop-header-bg.jpg')] bg-cover w-full h-[500px]">
-            <div class="m-auto text-center border border-white p-4 backdrop-brightness-75 scale-75 lg:scale-100">
+            <div class="m-auto text-center border border-white p-4 backdrop-brightness-50 scale-75 lg:scale-100">
                 <h1 in:fade="{{ duration: 1000 }}" class="text-5xl font-bold mb-4 text-pink-400">Descubra a Verdade</h1>
                 <p in:fade="{{ duration: 1000, delay: 500 }}" class="text-xl mb-8 font-semibold">Serviços profissionais de investigação para casos pessoais e empresariais</p>
                 <a href="#contato" in:fade="{{ duration: 1000, delay: 1000 }}" class="bg-pink-600 text-white px-6 py-3 rounded-full hover:bg-pink-500 transition duration-300 inline-block font-semibold">
@@ -60,7 +60,7 @@
                 Com mais de 20 anos de experiência, a Fast Time é a agência de detetives de confiança para aqueles que buscam a verdade. 
                 Nossa equipe de investigadores especializados utiliza tecnologia de ponta e métodos comprovados para entregar resultados.
                 <br/><br/>
-                Com equipamentos de última geração e uma equipe de detetive particular especializada, o trabalho da Elite Detetives é apresentar uma solução para
+                Com equipamentos de última geração e uma equipe de detetive particular especializada, o trabalho da Fast Time é apresentar uma solução para
                 o problema de seus clientes, por meio de provas reais (imagens, áudios e documentos) que comprovem ou não a suspeita, com total certeza e máximo
                 sigilo. O detetive particular é responsável por atender os mais variados tipos de investigação existentes, encontrando resultados concretos e 
                 atingindo os objetivos dos clientes.
