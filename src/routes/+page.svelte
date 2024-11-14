@@ -11,13 +11,13 @@
 </script>
 
 <aside class="fixed z-10 m-auto left-[90%] lg:left-[95%] top-[80%] bg-white rounded-xl p-3">
-    <a href="#contato"><Icon icon="logos:whatsapp-icon" class="text-[24px]" /></a>
+    <a href="https://wa.me/5511937324144"><Icon icon="logos:whatsapp-icon" class="text-[24px]" /></a>
 </aside>
 
 <main class="bg-zinc-900 min-h-screen text-zinc-300">
     <section id="investigacao-conjugal" class="flex justify-center space-y-10 text-center">
         <div class="flex bg-[url('/mobile-header-bg.jpg')] md:bg-[url('/desktop-header-bg.jpg')] bg-cover w-full h-[500px]">
-            {{/*
+            
             <div class="m-auto text-center border border-white p-4 backdrop-brightness-50 scale-75 lg:scale-100">
                 <h1 in:fade="{{ duration: 1000 }}" class="text-5xl font-bold mb-4 text-blue-400">Descubra a Verdade</h1>
                 <p in:fade="{{ duration: 1000, delay: 500 }}" class="text-xl mb-8 font-semibold">Serviços profissionais de investigação para casos pessoais e empresariais</p>
@@ -25,7 +25,6 @@
                     Fale Conosco
                 </a>
             </div>
-            */}}
 
         </div>
     </section>

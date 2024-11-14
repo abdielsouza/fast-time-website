@@ -51,6 +51,7 @@
 	<footer class="bg-zinc-900 py-8 text-center text-white space-y-1">
         <p>&copy; 2024 Fast Time Investigações. Todos os direitos reservados.</p>
 		<p>Email: <b>fasttimeparticular@gmail.com</b></p>
+		<p>Telefone: <b>+55 (11) 93732-4144</b></p>
 		<p>CNPJ: <b>53.166.267/0001-10</b></p>
     </footer>
 </ParaglideJS>
