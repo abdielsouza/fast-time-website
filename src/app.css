@@ -3,8 +3,8 @@
 @tailwind utilities;
 
 @font-face {
-  font-family: 'Electrolize';
-  src: url('/fonts/Electrolize-Regular.ttf');
+  font-family: 'Goldman';
+  src: url('/fonts/Goldman-Regular.ttf');
 }
 
 body {
@@ -14,6 +14,6 @@ body {
   min-height: 100vh;
 
   margin: 0;
-  font-family: 'Electrolize';
+  font-family: 'Goldman';
   scroll-behavior: smooth;
 }

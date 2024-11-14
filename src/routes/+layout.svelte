@@ -11,16 +11,16 @@
 
 <ParaglideJS {i18n}>
 	<nav class="w-full mx-auto py-4 px-10 flex justify-between items-center bg-zinc-900 text-zinc-300">
-		<div class="flex items-center space-x-4 text-2xl font-bold text-pink-500">
-			<img src="/logo.png" alt="" class="object-contain w-[48px] h-[48px]" />
-			<a href="/">Fast Time</a>
+		<div class="flex items-center space-x-4 text-2xl font-bold text-blue-500">
+			<img src="/logo.png" alt="" class="object-contain w-[64px] h-[64px]" />
+			<a href="/">Fast Time<br/><p class="text-lg italic">Investigações</p></a>
 		</div>
 		<ul class="hidden lg:flex space-x-4">
-			<li><a href="/serviços" class="hover:text-pink-400 transition duration-300">Serviços</a></li>
+			<li><a href="/serviços" class="hover:text-blue-400 transition duration-300">Serviços</a></li>
 			<li class="border-x border-x-white px-4">
-				<a href="/#sobre" class="hover:text-pink-400 transition duration-300">Sobre</a>
+				<a href="/#sobre" class="hover:text-blue-400 transition duration-300">Sobre</a>
 			</li>
-			<li><a href="/contato" class="hover:text-pink-400 transition duration-300">Contato</a></li>
+			<li><a href="/contato" class="hover:text-blue-400 transition duration-300">Contato</a></li>
 		</ul>
 		<Sheet>
 			<SheetTrigger class="lg:hidden">
@@ -30,17 +30,17 @@
 				<ul class="flex flex-col space-y-4">
 					<li>
 						<SheetClose>
-							<a href="/serviços" class="hover:text-pink-400 transition duration-300">Serviços</a>
+							<a href="/serviços" class="hover:text-blue-400 transition duration-300">Serviços</a>
 						</SheetClose>
 					</li>
 					<li>
 						<SheetClose>
-							<a href="/#sobre" class="hover:text-pink-400 transition duration-300">Sobre</a>
+							<a href="/#sobre" class="hover:text-blue-400 transition duration-300">Sobre</a>
 						</SheetClose>
 					</li>
 					<li>
 						<SheetClose>
-							<a href="/contato" class="hover:text-pink-400 transition duration-300">Contato</a>
+							<a href="/contato" class="hover:text-blue-400 transition duration-300">Contato</a>
 						</SheetClose>
 					</li>
 				</ul>

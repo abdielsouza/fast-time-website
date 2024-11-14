@@ -2,7 +2,7 @@
     <div class="sm:hidden lg:grid grid-flow-col grid-cols-2 h-full">
         <div class="flex flex-col w-full h-full">
             <div class="m-auto w-[500px] max-h-fit">
-                <h1 class="uppercase text-2xl font-semibold text-pink-500">Entre em contato conosco</h1>
+                <h1 class="uppercase text-2xl font-semibold text-blue-500">Entre em contato conosco</h1>
                 <p>
                     A Fast Time possui uma equipe especializada, pronta para te atender com todo o sigilo. Fale conosco:
                 </p>
