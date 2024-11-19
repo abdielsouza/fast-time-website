@@ -11,7 +11,7 @@
 </script>
 
 <aside class="fixed z-10 m-auto left-[90%] lg:left-[95%] top-[80%] bg-white rounded-xl p-3">
-    <a href="https://wa.me/5511937324144"><Icon icon="logos:whatsapp-icon" class="text-[24px]" /></a>
+    <a href="https://wa.me/5511953475111"><Icon icon="logos:whatsapp-icon" class="text-[24px]" /></a>
 </aside>
 
 <main class="bg-zinc-900 min-h-screen text-zinc-300">
